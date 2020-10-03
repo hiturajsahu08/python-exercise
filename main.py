@@ -61,6 +61,7 @@ btn = tk.Button(parent, text='Click me !', bd='5', command=save)
 # position of button
 btn.grid(column=2,row=0)
 # test check in without username and password
+# nnow lets check if username and pass is stored
 
 # call it in loop
 parent.mainloop()
